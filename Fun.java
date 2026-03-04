@@ -1,1 +1,1 @@
-Fun class changed from central repository
+I changed Fun ok
